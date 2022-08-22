@@ -1,0 +1,15 @@
+C:\Users\randolph.domingo\source\repos\AwesomeLinqDotNet6\bin\Debug\net6.0\AwesomeLinqDotNet6.exe
+C:\Users\randolph.domingo\source\repos\AwesomeLinqDotNet6\bin\Debug\net6.0\AwesomeLinqDotNet6.deps.json
+C:\Users\randolph.domingo\source\repos\AwesomeLinqDotNet6\bin\Debug\net6.0\AwesomeLinqDotNet6.runtimeconfig.json
+C:\Users\randolph.domingo\source\repos\AwesomeLinqDotNet6\bin\Debug\net6.0\AwesomeLinqDotNet6.dll
+C:\Users\randolph.domingo\source\repos\AwesomeLinqDotNet6\bin\Debug\net6.0\AwesomeLinqDotNet6.pdb
+C:\Users\randolph.domingo\source\repos\AwesomeLinqDotNet6\obj\Debug\net6.0\AwesomeLinqDotNet6.csproj.AssemblyReference.cache
+C:\Users\randolph.domingo\source\repos\AwesomeLinqDotNet6\obj\Debug\net6.0\AwesomeLinqDotNet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randolph.domingo\source\repos\AwesomeLinqDotNet6\obj\Debug\net6.0\AwesomeLinqDotNet6.AssemblyInfoInputs.cache
+C:\Users\randolph.domingo\source\repos\AwesomeLinqDotNet6\obj\Debug\net6.0\AwesomeLinqDotNet6.AssemblyInfo.cs
+C:\Users\randolph.domingo\source\repos\AwesomeLinqDotNet6\obj\Debug\net6.0\AwesomeLinqDotNet6.csproj.CoreCompileInputs.cache
+C:\Users\randolph.domingo\source\repos\AwesomeLinqDotNet6\obj\Debug\net6.0\AwesomeLinqDotNet6.dll
+C:\Users\randolph.domingo\source\repos\AwesomeLinqDotNet6\obj\Debug\net6.0\refint\AwesomeLinqDotNet6.dll
+C:\Users\randolph.domingo\source\repos\AwesomeLinqDotNet6\obj\Debug\net6.0\AwesomeLinqDotNet6.pdb
+C:\Users\randolph.domingo\source\repos\AwesomeLinqDotNet6\obj\Debug\net6.0\AwesomeLinqDotNet6.genruntimeconfig.cache
+C:\Users\randolph.domingo\source\repos\AwesomeLinqDotNet6\obj\Debug\net6.0\ref\AwesomeLinqDotNet6.dll

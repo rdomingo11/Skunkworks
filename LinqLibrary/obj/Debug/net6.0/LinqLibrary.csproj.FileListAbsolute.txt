@@ -1,0 +1,12 @@
+C:\Users\randolph.domingo\source\repos\LinqLibrary\bin\Debug\net6.0\LinqLibrary.deps.json
+C:\Users\randolph.domingo\source\repos\LinqLibrary\bin\Debug\net6.0\LinqLibrary.dll
+C:\Users\randolph.domingo\source\repos\LinqLibrary\bin\Debug\net6.0\LinqLibrary.pdb
+C:\Users\randolph.domingo\source\repos\LinqLibrary\obj\Debug\net6.0\LinqLibrary.csproj.AssemblyReference.cache
+C:\Users\randolph.domingo\source\repos\LinqLibrary\obj\Debug\net6.0\LinqLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randolph.domingo\source\repos\LinqLibrary\obj\Debug\net6.0\LinqLibrary.AssemblyInfoInputs.cache
+C:\Users\randolph.domingo\source\repos\LinqLibrary\obj\Debug\net6.0\LinqLibrary.AssemblyInfo.cs
+C:\Users\randolph.domingo\source\repos\LinqLibrary\obj\Debug\net6.0\LinqLibrary.csproj.CoreCompileInputs.cache
+C:\Users\randolph.domingo\source\repos\LinqLibrary\obj\Debug\net6.0\LinqLibrary.dll
+C:\Users\randolph.domingo\source\repos\LinqLibrary\obj\Debug\net6.0\refint\LinqLibrary.dll
+C:\Users\randolph.domingo\source\repos\LinqLibrary\obj\Debug\net6.0\LinqLibrary.pdb
+C:\Users\randolph.domingo\source\repos\LinqLibrary\obj\Debug\net6.0\ref\LinqLibrary.dll
