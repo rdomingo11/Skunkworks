@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZOG3aGcOf3wOV4QJ8KI9g2NfXySt8kWUR62XOfe8wXobqvHLBZn+amFMZ6Vr41XaPlaR8VCq0wbQkvk6H40Ahg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\randolph.domingo\\source\\repos\\microservice-map-info\\GoogleMapInfo\\GoogleMapInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\randolph.domingo\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.1\\microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "C:\\Users\\randolph.domingo\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\randolph.domingo\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\randolph.domingo\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

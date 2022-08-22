@@ -1,0 +1,17 @@
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\obj\Debug\netcoreapp3.1\AWSConsole.csproj.AssemblyReference.cache
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\obj\Debug\netcoreapp3.1\AWSConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\obj\Debug\netcoreapp3.1\AWSConsole.AssemblyInfoInputs.cache
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\obj\Debug\netcoreapp3.1\AWSConsole.AssemblyInfo.cs
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\obj\Debug\netcoreapp3.1\AWSConsole.csproj.CoreCompileInputs.cache
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\bin\Debug\netcoreapp3.1\AWSConsole.exe
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\bin\Debug\netcoreapp3.1\AWSConsole.deps.json
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\bin\Debug\netcoreapp3.1\AWSConsole.runtimeconfig.json
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\bin\Debug\netcoreapp3.1\AWSConsole.runtimeconfig.dev.json
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\bin\Debug\netcoreapp3.1\AWSConsole.dll
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\bin\Debug\netcoreapp3.1\AWSConsole.pdb
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\obj\Debug\netcoreapp3.1\AWSConsole.csproj.CopyComplete
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\obj\Debug\netcoreapp3.1\AWSConsole.dll
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\obj\Debug\netcoreapp3.1\AWSConsole.pdb
+C:\Users\randolph.domingo\source\repos\AWSConsole\AWSConsole\obj\Debug\netcoreapp3.1\AWSConsole.genruntimeconfig.cache

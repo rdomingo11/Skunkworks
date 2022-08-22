@@ -1,0 +1,64 @@
+https://la3os7yyh4.execute-api.ap-southeast-2.amazonaws.com/prod/dragons
+
+/prod/dragons?family=red
+/prod/dragons?family=blue
+/prod/dragons?dragonName=Atlas
+
+#model
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Dragon",
+  "type": "object",
+  "properties": {
+    "dragonName": { "type": "string" },
+    "description": { "type": "string" },
+    "family": { "type": "string" },
+    "city": { "type": "string" },
+    "country": { "type": "string" },
+    "state": { "type": "string" },
+    "neighborhood": { "type": "string" },
+    "reportingPhoneNumber": { "type": "string" },
+    "confirmationRequired": { "type": "boolean" }
+  }
+
+
+#sample request body
+
+{
+  "dragonName": "Frank",
+  "description": "This dragon is brand new, we don't know much about it yet.",
+  "family": "purple",
+  "city": "Seattle",
+  "country": "USA",
+  "state": "WA",
+  "neighborhood": "Downtown",
+  "reportingPhoneNumber": "15555555555",
+  "confirmationRequired": false
+}
+}
+
+
+
+https://rrs-public.s3.amazonaws.com/exercises/downloads/webapp2.zip
+
+$MYBUCKET= Read-Host -Prompt 'Please enter a bucket name'
+
+Invoke-WebRequest https://rrs-public.s3.amazonaws.com/exercises/downloads/webapp2.zip -OutFile webapp2.zip ; Expand-Archive webapp2.zip -f
+
+Write-S3Object `
+  -BucketName $MYBUCKET `
+  -KeyPrefix dragonsapp `
+  -Folder webapp2 `
+  -CannedACLName public-read `
+  -Recurse
+
+
+aws s3 cp webapp2 s3://$MYBUCKET/dragonsapp/ --recursive --acl public-read
+
+Write-Host https://$MYBUCKET.s3.amazonaws.com/dragonsapp/index.html
+
+
+Configure the Dragons Endpoint web application. Construct this endpoint from the URL that you previously saved into a file. Delete the dragons resource from the end of the URL. For example, https://abcde01234.execute-api.us-east-1.amazonaws.com/prod/dragons becomes https://abcde01234.execute-api.us-east-1.amazonaws.com/prod/.
+
+
+https://la3os7yyh4.execute-api.ap-southeast-2.amazonaws.com/prod/dragons

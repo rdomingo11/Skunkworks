@@ -1,0 +1,80 @@
+Invoke-WebRequest https://awscli.amazonaws.com/AWSCLIV2.msi -OutFile AWSCLIV2.msi
+
+.\AWSCLIV2.msi /passive
+
+Get-Content ~\.aws\credentials and Get-Content ~\.aws\config
+
+Install-Module -Name AWSPowerShell.NetCore
+
+Set-PSRepository -Name 'PSGallery' -InstallationPolicy Trusted ; Install-Module -Name AWSPowerShell.NetCore
+
+PS
+$MYBUCKET= Read-Host -Prompt 'Please enter a bucket name' ; New-S3Bucket -BucketName $MYBUCKET
+
+CLI
+$MYBUCKET= Read-Host -Prompt 'Please enter a bucket name' ; aws s3 mb s3://$MYBUCKET
+
+rdd-dragons-app
+
+Get-S3Bucket
+
+$MYBUCKET= Read-Host -Prompt 'Please enter a bucket name' ; New-S3Bucket -BucketName $MYBUCKET
+
+$MYBUCKET= Read-Host -Prompt 'Please enter a bucket name' ; aws s3 mb s3://$MYBUCKET
+
+aws s3 ls
+
+Invoke-WebRequest https://aws-tc-largeobjects.s3-us-west-2.amazonaws.com/DEV-AWS-MO-BuildingNet/downloads/webapp1.zip -OutFile webapp1.zip ; Expand-Archive webapp1.zip -f
+
+aws s3 ls
+
+Write-S3Object `
+  -BucketName $MYBUCKET `
+  -KeyPrefix dragonsapp `
+  -Folder webapp1 `
+  -CannedACLName public-read `
+  -Recurse
+
+aws s3 cp webapp1 s3://$MYBUCKET/dragonsapp/ --recursive --acl public-read
+
+Write-Host https://$MYBUCKET.s3.amazonaws.com/dragonsapp/index.html
+
+Invoke-WebRequest https://aws-tc-largeobjects.s3-us-west-2.amazonaws.com/DEV-AWS-MO-BuildingNet/downloads/dragon_stats_one.txt -OutFile dragon_stats_one.txt
+
+
+Write-S3Object `
+  -BucketName $MYBUCKET `
+  -File dragon_stats_one.txt
+
+aws s3 cp dragon_stats_one.txt s3://$MYBUCKET
+
+Get-S3Object -BucketName $MYBUCKET
+aws s3 ls s3://$MYBUCKET
+
+Write-SSMParameter `
+  -Name "dragon_data_bucket_name" `
+  -Type "String" `
+  -Overwrite $true `
+  -Value $MYBUCKET
+
+aws ssm put-parameter `
+--name "dragon_data_bucket_name" `
+--type "String" `
+--overwrite `
+--value $MYBUCKET
+
+
+Write-SSMParameter `
+  -Name "dragon_data_file_name" `
+  -Type "String" `
+  -Overwrite $true `
+  -Value dragon_stats_one.txt
+
+aws ssm put-parameter `
+--name "dragon_data_file_name" `
+--type "String" `
+--overwrite `
+--value dragon_stats_one.txt
+
+
+Invoke-WebRequest https://aws-tc-largeobjects.s3-us-west-2.amazonaws.com/DEV-AWS-MO-BuildingNet/downloads/explore-sdk.zip -OutFile explore-sdk.zip ; Expand-Archive explore-sdk.zip -f

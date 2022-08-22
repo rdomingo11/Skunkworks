@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vzExKKOpYyv++eE2prR4KxdCrgwkoeJFuS8uVppr7J4U0vM6j+sDm1TnDyr1R2oqmL+AchjyLJ3kWRwwJffgAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\randolph.domingo\\source\\repos\\AWSConsole\\AWSConsole\\AWSConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\randolph.domingo\\.nuget\\packages\\awssdk.core\\3.7.12.1\\awssdk.core.3.7.12.1.nupkg.sha512",
+    "C:\\Users\\randolph.domingo\\.nuget\\packages\\awssdk.s3\\3.7.9.17\\awssdk.s3.3.7.9.17.nupkg.sha512"
+  ],
+  "logs": []
+}
