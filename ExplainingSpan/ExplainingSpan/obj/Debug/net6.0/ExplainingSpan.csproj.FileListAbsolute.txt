@@ -1,0 +1,15 @@
+C:\Users\randolph.domingo\source\repos\ExplainingSpan\ExplainingSpan\bin\Debug\net6.0\ExplainingSpan.exe
+C:\Users\randolph.domingo\source\repos\ExplainingSpan\ExplainingSpan\bin\Debug\net6.0\ExplainingSpan.deps.json
+C:\Users\randolph.domingo\source\repos\ExplainingSpan\ExplainingSpan\bin\Debug\net6.0\ExplainingSpan.runtimeconfig.json
+C:\Users\randolph.domingo\source\repos\ExplainingSpan\ExplainingSpan\bin\Debug\net6.0\ExplainingSpan.dll
+C:\Users\randolph.domingo\source\repos\ExplainingSpan\ExplainingSpan\bin\Debug\net6.0\ExplainingSpan.pdb
+C:\Users\randolph.domingo\source\repos\ExplainingSpan\ExplainingSpan\obj\Debug\net6.0\ExplainingSpan.csproj.AssemblyReference.cache
+C:\Users\randolph.domingo\source\repos\ExplainingSpan\ExplainingSpan\obj\Debug\net6.0\ExplainingSpan.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\randolph.domingo\source\repos\ExplainingSpan\ExplainingSpan\obj\Debug\net6.0\ExplainingSpan.AssemblyInfoInputs.cache
+C:\Users\randolph.domingo\source\repos\ExplainingSpan\ExplainingSpan\obj\Debug\net6.0\ExplainingSpan.AssemblyInfo.cs
+C:\Users\randolph.domingo\source\repos\ExplainingSpan\ExplainingSpan\obj\Debug\net6.0\ExplainingSpan.csproj.CoreCompileInputs.cache
+C:\Users\randolph.domingo\source\repos\ExplainingSpan\ExplainingSpan\obj\Debug\net6.0\ExplainingSpan.dll
+C:\Users\randolph.domingo\source\repos\ExplainingSpan\ExplainingSpan\obj\Debug\net6.0\refint\ExplainingSpan.dll
+C:\Users\randolph.domingo\source\repos\ExplainingSpan\ExplainingSpan\obj\Debug\net6.0\ExplainingSpan.pdb
+C:\Users\randolph.domingo\source\repos\ExplainingSpan\ExplainingSpan\obj\Debug\net6.0\ExplainingSpan.genruntimeconfig.cache
+C:\Users\randolph.domingo\source\repos\ExplainingSpan\ExplainingSpan\obj\Debug\net6.0\ref\ExplainingSpan.dll
