@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "imZVo6zqGQmVAEDid+OUhYd20Qi/DCVRixuRjxi+mIbGF4WzslmZO8Hh5lYyWiPTdgTA/7+pguwCMWzZnc/yQQ==",
+  "success": true,
+  "projectFilePath": "D:\\skunkworks\\3CXCallControlAPI_v16-master\\OMSamples\\OMSamplesCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\randolphd\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\randolphd\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\randolphd\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\randolphd\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

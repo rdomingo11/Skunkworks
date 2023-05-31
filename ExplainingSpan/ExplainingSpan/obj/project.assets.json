@@ -4165,7 +4165,6 @@
       "path": "system.runtime.interopservices.runtimeinformation/4.0.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -5418,23 +5417,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\randolph.domingo\\.nuget\\packages\\": {},
+    "C:\\Users\\randolphd\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\randolph.domingo\\source\\repos\\ExplainingSpan\\ExplainingSpan\\ExplainingSpan.csproj",
+      "projectUniqueName": "D:\\skunkworks\\ExplainingSpan\\ExplainingSpan\\ExplainingSpan.csproj",
       "projectName": "ExplainingSpan",
-      "projectPath": "C:\\Users\\randolph.domingo\\source\\repos\\ExplainingSpan\\ExplainingSpan\\ExplainingSpan.csproj",
-      "packagesPath": "C:\\Users\\randolph.domingo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\randolph.domingo\\source\\repos\\ExplainingSpan\\ExplainingSpan\\obj\\",
+      "projectPath": "D:\\skunkworks\\ExplainingSpan\\ExplainingSpan\\ExplainingSpan.csproj",
+      "packagesPath": "C:\\Users\\randolphd\\.nuget\\packages\\",
+      "outputPath": "D:\\skunkworks\\ExplainingSpan\\ExplainingSpan\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\randolph.domingo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\randolphd\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5480,7 +5479,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.307\\RuntimeIdentifierGraph.json"
       }
     }
   }

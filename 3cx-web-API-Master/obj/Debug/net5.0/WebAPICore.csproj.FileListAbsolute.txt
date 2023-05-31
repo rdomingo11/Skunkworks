@@ -1,0 +1,5 @@
+D:\skunkworks\3cx-web-API-Master\obj\Debug\net5.0\WebAPICore.csproj.AssemblyReference.cache
+D:\skunkworks\3cx-web-API-Master\obj\Debug\net5.0\WebAPICore.GeneratedMSBuildEditorConfig.editorconfig
+D:\skunkworks\3cx-web-API-Master\obj\Debug\net5.0\WebAPICore.AssemblyInfoInputs.cache
+D:\skunkworks\3cx-web-API-Master\obj\Debug\net5.0\WebAPICore.AssemblyInfo.cs
+D:\skunkworks\3cx-web-API-Master\obj\Debug\net5.0\WebAPICore.csproj.CoreCompileInputs.cache
