@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\BlazorApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C661D976-118E-4785-95CA-FAFDFB1756E9}|BlazorApp3.Client\\BlazorApp3.Client.csproj|d:\\github\\blazorapp3\\blazorapp3.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C661D976-118E-4785-95CA-FAFDFB1756E9}|BlazorApp3.Client\\BlazorApp3.Client.csproj|solutionrelative:blazorapp3.client\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29F5601-082D-4656-888C-0692B32FD61C}|BlazorApp3\\BlazorApp3.csproj|d:\\github\\blazorapp3\\blazorapp3\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E29F5601-082D-4656-888C-0692B32FD61C}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29F5601-082D-4656-888C-0692B32FD61C}|BlazorApp3\\BlazorApp3.csproj|d:\\github\\blazorapp3\\blazorapp3\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E29F5601-082D-4656-888C-0692B32FD61C}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29F5601-082D-4656-888C-0692B32FD61C}|BlazorApp3\\BlazorApp3.csproj|d:\\github\\blazorapp3\\blazorapp3\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E29F5601-082D-4656-888C-0692B32FD61C}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29F5601-082D-4656-888C-0692B32FD61C}|BlazorApp3\\BlazorApp3.csproj|d:\\github\\blazorapp3\\blazorapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29F5601-082D-4656-888C-0692B32FD61C}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E29F5601-082D-4656-888C-0692B32FD61C}|BlazorApp3\\BlazorApp3.csproj|d:\\github\\blazorapp3\\blazorapp3\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E29F5601-082D-4656-888C-0692B32FD61C}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C661D976-118E-4785-95CA-FAFDFB1756E9}|BlazorApp3.Client\\BlazorApp3.Client.csproj|d:\\github\\blazorapp3\\blazorapp3.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C661D976-118E-4785-95CA-FAFDFB1756E9}|BlazorApp3.Client\\BlazorApp3.Client.csproj|solutionrelative:blazorapp3.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\BlazorApp3\\BlazorApp3\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp3\\Program.cs",
+              "ToolTip": "D:\\Github\\BlazorApp3\\BlazorApp3\\Program.cs",
+              "RelativeToolTip": "BlazorApp3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T01:32:20.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Github\\BlazorApp3\\BlazorApp3\\Components\\App.razor",
+              "RelativeDocumentMoniker": "BlazorApp3\\Components\\App.razor",
+              "ToolTip": "D:\\Github\\BlazorApp3\\BlazorApp3\\Components\\App.razor",
+              "RelativeToolTip": "BlazorApp3\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T01:32:07.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Github\\BlazorApp3\\BlazorApp3.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorApp3.Client\\_Imports.razor",
+              "ToolTip": "D:\\Github\\BlazorApp3\\BlazorApp3.Client\\_Imports.razor",
+              "RelativeToolTip": "BlazorApp3.Client\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T01:32:03.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Github\\BlazorApp3\\BlazorApp3\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorApp3\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Github\\BlazorApp3\\BlazorApp3\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorApp3\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T01:30:42.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.razor",
+              "DocumentMoniker": "D:\\Github\\BlazorApp3\\BlazorApp3\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "BlazorApp3\\Components\\Pages\\Error.razor",
+              "ToolTip": "D:\\Github\\BlazorApp3\\BlazorApp3\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "BlazorApp3\\Components\\Pages\\Error.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T01:30:38.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Github\\BlazorApp3\\BlazorApp3\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorApp3\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Github\\BlazorApp3\\BlazorApp3\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorApp3\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T01:30:36.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Github\\BlazorApp3\\BlazorApp3.Client\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorApp3.Client\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Github\\BlazorApp3\\BlazorApp3.Client\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorApp3.Client\\Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T01:30:31.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
