@@ -1,0 +1,12 @@
+D:\Github\IMS\IMS.CoreBusiness\bin\Debug\net8.0\IMS.CoreBusiness.deps.json
+D:\Github\IMS\IMS.CoreBusiness\bin\Debug\net8.0\IMS.CoreBusiness.dll
+D:\Github\IMS\IMS.CoreBusiness\bin\Debug\net8.0\IMS.CoreBusiness.pdb
+D:\Github\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.AssemblyInfoInputs.cache
+D:\Github\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.AssemblyInfo.cs
+D:\Github\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.csproj.CoreCompileInputs.cache
+D:\Github\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.sourcelink.json
+D:\Github\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.dll
+D:\Github\IMS\IMS.CoreBusiness\obj\Debug\net8.0\refint\IMS.CoreBusiness.dll
+D:\Github\IMS\IMS.CoreBusiness\obj\Debug\net8.0\IMS.CoreBusiness.pdb
+D:\Github\IMS\IMS.CoreBusiness\obj\Debug\net8.0\ref\IMS.CoreBusiness.dll

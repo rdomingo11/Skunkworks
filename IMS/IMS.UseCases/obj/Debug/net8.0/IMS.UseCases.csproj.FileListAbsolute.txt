@@ -1,0 +1,16 @@
+D:\Github\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.UseCases.deps.json
+D:\Github\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.UseCases.dll
+D:\Github\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.UseCases.pdb
+D:\Github\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.CoreBusiness.dll
+D:\Github\IMS\IMS.UseCases\bin\Debug\net8.0\IMS.CoreBusiness.pdb
+D:\Github\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.csproj.AssemblyReference.cache
+D:\Github\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.AssemblyInfoInputs.cache
+D:\Github\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.AssemblyInfo.cs
+D:\Github\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.csproj.CoreCompileInputs.cache
+D:\Github\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.sourcelink.json
+D:\Github\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseC.984B1879.Up2Date
+D:\Github\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.dll
+D:\Github\IMS\IMS.UseCases\obj\Debug\net8.0\refint\IMS.UseCases.dll
+D:\Github\IMS\IMS.UseCases\obj\Debug\net8.0\IMS.UseCases.pdb
+D:\Github\IMS\IMS.UseCases\obj\Debug\net8.0\ref\IMS.UseCases.dll

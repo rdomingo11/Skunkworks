@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Github\\IMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|d:\\github\\ims\\ims.webapp\\components\\controls\\inventorylistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\controls\\inventorylistcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|d:\\github\\ims\\ims.webapp\\components\\controls\\inventorylistitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\controls\\inventorylistitemcomponent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|d:\\github\\ims\\ims.webapp\\components\\pages\\inventories\\inventorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\pages\\inventories\\inventorylist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|d:\\github\\ims\\ims.webapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|d:\\github\\ims\\ims.webapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|d:\\github\\ims\\ims.webapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|d:\\github\\ims\\ims.webapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|d:\\github\\ims\\ims.webapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|d:\\github\\ims\\ims.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2B6A26F-C7EC-49B9-9C40-C8ABEB7DAFE0}|IMS.WebApp\\IMS.WebApp.csproj|solutionrelative:ims.webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D42897-C2B0-4D86-B8C5-D21FDE1AA580}|IMS.UseCases\\IMS.UseCases.csproj|d:\\github\\ims\\ims.usecases\\inventories\\interfaces\\iviewinventoriesbynameusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D42897-C2B0-4D86-B8C5-D21FDE1AA580}|IMS.UseCases\\IMS.UseCases.csproj|solutionrelative:ims.usecases\\inventories\\interfaces\\iviewinventoriesbynameusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D42897-C2B0-4D86-B8C5-D21FDE1AA580}|IMS.UseCases\\IMS.UseCases.csproj|d:\\github\\ims\\ims.usecases\\inventories\\viewinventoriesbynameusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D42897-C2B0-4D86-B8C5-D21FDE1AA580}|IMS.UseCases\\IMS.UseCases.csproj|solutionrelative:ims.usecases\\inventories\\viewinventoriesbynameusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InventoryListItemComponent.razor",
+              "DocumentMoniker": "D:\\Github\\IMS\\IMS.WebApp\\Components\\Controls\\InventoryListItemComponent.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Controls\\InventoryListItemComponent.razor",
+              "ToolTip": "D:\\Github\\IMS\\IMS.WebApp\\Components\\Controls\\InventoryListItemComponent.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Controls\\InventoryListItemComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T02:21:05.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InventoryListComponent.razor",
+              "DocumentMoniker": "D:\\Github\\IMS\\IMS.WebApp\\Components\\Controls\\InventoryListComponent.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Controls\\InventoryListComponent.razor",
+              "ToolTip": "D:\\Github\\IMS\\IMS.WebApp\\Components\\Controls\\InventoryListComponent.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Controls\\InventoryListComponent.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T02:09:23.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Github\\IMS\\IMS.WebApp\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Github\\IMS\\IMS.WebApp\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Pages\\Weather.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T01:59:55.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Github\\IMS\\IMS.WebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Github\\IMS\\IMS.WebApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T01:59:04.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryList.razor",
+              "DocumentMoniker": "D:\\Github\\IMS\\IMS.WebApp\\Components\\Pages\\Inventories\\InventoryList.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Pages\\Inventories\\InventoryList.razor",
+              "ToolTip": "D:\\Github\\IMS\\IMS.WebApp\\Components\\Pages\\Inventories\\InventoryList.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Pages\\Inventories\\InventoryList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T01:47:30.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Github\\IMS\\IMS.WebApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\App.razor",
+              "ToolTip": "D:\\Github\\IMS\\IMS.WebApp\\Components\\App.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T01:11:28.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Github\\IMS\\IMS.WebApp\\Components\\_Imports.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\_Imports.razor",
+              "ToolTip": "D:\\Github\\IMS\\IMS.WebApp\\Components\\_Imports.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T00:54:10.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Github\\IMS\\IMS.WebApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Github\\IMS\\IMS.WebApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "IMS.WebApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-18T00:50:44.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Github\\IMS\\IMS.WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "IMS.WebApp\\Program.cs",
+              "ToolTip": "D:\\Github\\IMS\\IMS.WebApp\\Program.cs",
+              "RelativeToolTip": "IMS.WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:49:35.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IViewInventoriesByNameUseCase.cs",
+              "DocumentMoniker": "D:\\Github\\IMS\\IMS.UseCases\\Inventories\\Interfaces\\IViewInventoriesByNameUseCase.cs",
+              "RelativeDocumentMoniker": "IMS.UseCases\\Inventories\\Interfaces\\IViewInventoriesByNameUseCase.cs",
+              "ToolTip": "D:\\Github\\IMS\\IMS.UseCases\\Inventories\\Interfaces\\IViewInventoriesByNameUseCase.cs",
+              "RelativeToolTip": "IMS.UseCases\\Inventories\\Interfaces\\IViewInventoriesByNameUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:48:47.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ViewInventoriesByNameUseCase.cs",
+              "DocumentMoniker": "D:\\Github\\IMS\\IMS.UseCases\\Inventories\\ViewInventoriesByNameUseCase.cs",
+              "RelativeDocumentMoniker": "IMS.UseCases\\Inventories\\ViewInventoriesByNameUseCase.cs",
+              "ToolTip": "D:\\Github\\IMS\\IMS.UseCases\\Inventories\\ViewInventoriesByNameUseCase.cs",
+              "RelativeToolTip": "IMS.UseCases\\Inventories\\ViewInventoriesByNameUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T00:48:01.916Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
